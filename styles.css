@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    color: navy;
+}
+
+.youtube-link {
+    color: navy;
+    text-decoration: none;
+}
+
+.youtube-link:hover {
+    color: purple;
+}
